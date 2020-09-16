@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Challenge-evoxNews/precache-manifest.bcee4dcbb8a820aa3735ec83accd45ed.js"
+  "/Challenge-evoxNews/precache-manifest.536e674abd9a374d00b253c92a74e841.js"
 );
 
 self.addEventListener('message', (event) => {
