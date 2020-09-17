@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4bb5f82d840ffe8ac6c998b7906793c6",
+    "revision": "6b35db2465ed6ab5f546c20cfe82e558",
     "url": "/Challenge-evoxNews/index.html"
   },
   {
-    "revision": "0899bf36b5572f45bc9d",
+    "revision": "5bf1d8254cb62d4349e6",
     "url": "/Challenge-evoxNews/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "d885fea5906475318a00",
-    "url": "/Challenge-evoxNews/static/css/main.d2221804.chunk.css"
+    "revision": "d66c196fe042161640e5",
+    "url": "/Challenge-evoxNews/static/css/main.2906007e.chunk.css"
   },
   {
-    "revision": "0899bf36b5572f45bc9d",
-    "url": "/Challenge-evoxNews/static/js/2.61d9c6fd.chunk.js"
+    "revision": "5bf1d8254cb62d4349e6",
+    "url": "/Challenge-evoxNews/static/js/2.0248f789.chunk.js"
   },
   {
     "revision": "771111bf63abb8f374966867479d6ff7",
-    "url": "/Challenge-evoxNews/static/js/2.61d9c6fd.chunk.js.LICENSE.txt"
+    "url": "/Challenge-evoxNews/static/js/2.0248f789.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d885fea5906475318a00",
-    "url": "/Challenge-evoxNews/static/js/main.8997f969.chunk.js"
+    "revision": "d66c196fe042161640e5",
+    "url": "/Challenge-evoxNews/static/js/main.059648e7.chunk.js"
   },
   {
     "revision": "0bf44c5d744f03aced33",
@@ -34,5 +34,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "15ac1b60b9cd1dc3f095d8ad5cf57b6e",
     "url": "/Challenge-evoxNews/static/media/logo.15ac1b60.svg"
+  },
+  {
+    "revision": "70139e4e20514645d5c891efabe4d228",
+    "url": "/Challenge-evoxNews/static/media/searchIcon.70139e4e.svg"
   }
 ]);

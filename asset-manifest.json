@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/Challenge-evoxNews/static/css/main.d2221804.chunk.css",
-    "main.js": "/Challenge-evoxNews/static/js/main.8997f969.chunk.js",
-    "main.js.map": "/Challenge-evoxNews/static/js/main.8997f969.chunk.js.map",
+    "main.css": "/Challenge-evoxNews/static/css/main.2906007e.chunk.css",
+    "main.js": "/Challenge-evoxNews/static/js/main.059648e7.chunk.js",
+    "main.js.map": "/Challenge-evoxNews/static/js/main.059648e7.chunk.js.map",
     "runtime-main.js": "/Challenge-evoxNews/static/js/runtime-main.d3df1f35.js",
     "runtime-main.js.map": "/Challenge-evoxNews/static/js/runtime-main.d3df1f35.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/Challenge-evoxNews/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.61d9c6fd.chunk.js": "/Challenge-evoxNews/static/js/2.61d9c6fd.chunk.js",
-    "static/js/2.61d9c6fd.chunk.js.map": "/Challenge-evoxNews/static/js/2.61d9c6fd.chunk.js.map",
+    "static/js/2.0248f789.chunk.js": "/Challenge-evoxNews/static/js/2.0248f789.chunk.js",
+    "static/js/2.0248f789.chunk.js.map": "/Challenge-evoxNews/static/js/2.0248f789.chunk.js.map",
     "index.html": "/Challenge-evoxNews/index.html",
-    "precache-manifest.536e674abd9a374d00b253c92a74e841.js": "/Challenge-evoxNews/precache-manifest.536e674abd9a374d00b253c92a74e841.js",
+    "precache-manifest.6957bb0e0eb579b5897c4f4612718ac5.js": "/Challenge-evoxNews/precache-manifest.6957bb0e0eb579b5897c4f4612718ac5.js",
     "service-worker.js": "/Challenge-evoxNews/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/Challenge-evoxNews/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.d2221804.chunk.css.map": "/Challenge-evoxNews/static/css/main.d2221804.chunk.css.map",
-    "static/js/2.61d9c6fd.chunk.js.LICENSE.txt": "/Challenge-evoxNews/static/js/2.61d9c6fd.chunk.js.LICENSE.txt",
+    "static/css/main.2906007e.chunk.css.map": "/Challenge-evoxNews/static/css/main.2906007e.chunk.css.map",
+    "static/js/2.0248f789.chunk.js.LICENSE.txt": "/Challenge-evoxNews/static/js/2.0248f789.chunk.js.LICENSE.txt",
     "static/media/defaultThumb.png": "/Challenge-evoxNews/static/media/defaultThumb.16987d3e.png",
-    "static/media/logo.svg": "/Challenge-evoxNews/static/media/logo.15ac1b60.svg"
+    "static/media/logo.svg": "/Challenge-evoxNews/static/media/logo.15ac1b60.svg",
+    "static/media/searchIcon.svg": "/Challenge-evoxNews/static/media/searchIcon.70139e4e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d3df1f35.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.61d9c6fd.chunk.js",
-    "static/css/main.d2221804.chunk.css",
-    "static/js/main.8997f969.chunk.js"
+    "static/js/2.0248f789.chunk.js",
+    "static/css/main.2906007e.chunk.css",
+    "static/js/main.059648e7.chunk.js"
   ]
 }
